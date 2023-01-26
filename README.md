@@ -1,3 +1,13 @@
 # Machine Learning Assignment 3: Gesture Recognition
 
 This is a repository for an arm gesture recognition with machine learning.
+
+TODOs
+
+- [ ] documentation
+- [ ] model training
+- [ ] additional features
+- [x] filtering
+- [ ] preprocessing (eg scaling, outliers)
+- [ ] model decision
+- [ ] check how much and which filter is needed
