@@ -7,6 +7,7 @@ TODOs
 - [ ] documentation
 - [ ] model training
 - [ ] additional features
+  - [ ] Mean Magnitude - Mean Absolute Deviation Sicki
 - [x] filtering
 - [x] recording length as feature
 - [x] preprocessing (eg scaling, outliers)
