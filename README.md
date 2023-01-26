@@ -8,6 +8,7 @@ TODOs
 - [ ] model training
 - [ ] additional features
 - [x] filtering
-- [ ] preprocessing (eg scaling, outliers)
+- [x] recording length as feature
+- [x] preprocessing (eg scaling, outliers)
 - [ ] model decision
 - [ ] check how much and which filter is needed
