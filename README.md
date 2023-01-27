@@ -11,7 +11,7 @@ TODOs
 - [ ] documentation
 - [ ] model training
 - [ ] additional features
-  - [ ] Mean Magnitude - Mean Absolute Deviation Sicki
+  - [x] Mean Magnitude - Mean Absolute Deviation Sicki
   - [x] variance - acceleration sd (b features)
 - [x] filtering
 - [x] recording length as feature
