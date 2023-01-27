@@ -12,8 +12,10 @@ TODOs
 - [ ] model training
 - [ ] additional features
   - [ ] Mean Magnitude - Mean Absolute Deviation Sicki
+  - [ ] variance - magnitude std (b features) - lea
 - [x] filtering
 - [x] recording length as feature
 - [x] preprocessing (eg scaling, outliers)
 - [ ] model decision
 - [ ] check how much and which filter is needed
+- [ ] interpolation needed?
