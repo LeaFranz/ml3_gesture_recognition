@@ -12,7 +12,7 @@ TODOs
 - [ ] model training
 - [ ] additional features
   - [ ] Mean Magnitude - Mean Absolute Deviation Sicki
-  - [ ] variance - magnitude std (b features) - lea
+  - [ ] variance - acceleration sd (b features) - lea
 - [x] filtering
 - [x] recording length as feature
 - [x] preprocessing (eg scaling, outliers)
