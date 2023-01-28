@@ -10,6 +10,10 @@ TODOs
 
 - [ ] documentation
 - [ ] model training
+  - [x] knn
+  - [x] svm
+  - [x] random forest
+  - [ ] ....
 - [ ] additional features
   - [x] Mean Magnitude - Mean Absolute Deviation Sicki
   - [x] variance - acceleration sd (b features)
@@ -19,3 +23,4 @@ TODOs
 - [ ] model decision
 - [ ] check how much and which filter is needed
 - [ ] interpolation needed?
+- [ ] test which features are useful -> atm performance without additional features is  > 96%
