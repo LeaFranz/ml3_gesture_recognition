@@ -24,3 +24,4 @@ TODO's:
 - [ ] check how much and which filter is needed
 - [ ] interpolation needed?
 - [ ] test which features are useful -> atm performance without additional features is  > 96%
+- [ ] population in/dependence?
