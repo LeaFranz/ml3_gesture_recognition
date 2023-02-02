@@ -15,8 +15,10 @@ TODO's:
   - [x] random forest
   - [ ] ....
 - [ ] additional features
-  - [x] Mean Magnitude - Mean Absolute Deviation Sicki
+  - [x] Mean Magnitude - Root Mean Square Sicki
   - [x] variance - acceleration sd (b features)
+  - [x] peaks
+  - [ ] ....
 - [x] filtering
 - [x] recording length as feature
 - [x] preprocessing (eg scaling, outliers)
